@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Antonio%20Buonanno%20Banner.png">
-
 <h2> Hey there! I'm Antonio.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
