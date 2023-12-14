@@ -5,10 +5,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 Studying Java at the Develhope training company to become a back end developer.  
-Other hot topics are: 
--The implementation of relational databases based on MySQL language.
--The use of Postman as API testing tool.
--The use of major team cooperation tools such as Trello, Canva, GitHub, Drive suite and Discord for daily communication.
+Other hot topics are:
+- &nbsp;The implementation of relational databases based on MySQL language.
+- &nbsp;The use of Postman as API testing tool.
+- &nbsp;The use of major team cooperation tools such as Trello, Canva, GitHub, Drive suite and Discord for daily communication.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
