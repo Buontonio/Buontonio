@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+Studying Java at the Develhope training company to become a back end developer.  
+Other hot topics are: 
+-The implementation of relational databases based on MySQL language.
+-The use of Postman as API testing tool.
+-The use of major team cooperation tools such as Trello, Canva, GitHub, Drive suite and Discord for daily communication.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
